@@ -1,4 +1,4 @@
-numpy==1.21.1
+numpy==1.22.0
 panda3d==1.10.9
 panda3d-gltf==0.13
 panda3d-simplepbr==0.8
